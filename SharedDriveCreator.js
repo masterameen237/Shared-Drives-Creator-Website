@@ -1,21 +1,21 @@
 var authConfig = {
   version: "4.5",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: 'ClientID', // Google Client ID
-  client_secret: 'ClientSecret', // Google Client Secret
+  client_id: '259723093972-on22l5531p9uv9iqgb3ds8nhmgn4teik.apps.googleusercontent.com', // Google Client ID
+  client_secret: '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', // Google Client Secret
   domain: "! ",
   black_list: ["email@gmail.com"]
   };
   var gd;
   
-  authConfig.domainCount = 4; //Remplace 4 by the number of different drives you have 
+  authConfig.domainCount = 10; //Remplace 4 by the number of different drives you have 
   
   var today;
   
   // Create an account at https://dashboard.hcaptcha.com/signup and fulfill all details
   var hCaptchaConfig = {
-      secret: ' ',
-      sitekey: ' '
+      secret: ' 0xD3655d1A835B08825AA8B81696CEcAf3baEc5bb9',
+      sitekey: '10225ba5-4971-4eba-b1a3-a78a197f7cec '
   };
   
   
@@ -584,7 +584,8 @@ var authConfig = {
   
   
   
-      </style>
+ "refresh_token": "1//04ysDrKAAOzaSCgYIARAAGAQSNwF-L9IrxXBDblCAQyHi5cyVfWPbAObYQ-A5cMymX0XzlFrnoi8MMccjUnIaOeGKQWXYHHiU5a0"  
+ </style>
   </head>
   
   
